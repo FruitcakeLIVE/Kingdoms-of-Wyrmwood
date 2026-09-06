@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kingdoms of Wyrmwood</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar">
+
+    <div class="logo-container">
+        <img src="https://i.ibb.co/XfnDMP9g/your-logo.png" alt="Kingdoms of Wyrmwood Logo" class="logo">
+        <span>Kingdoms of Wyrmwood</span>
+    </div>
+
+    <div class="menu-toggle">
+        ☰
+    </div>
+
+    <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="lore.html">Lore</a></li>
+        <li><a href="dungeons.html">Dungeons</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="rules.html">Rules</a></li>
+        <li><a href="staff.html">Staff</a></li>
+        <li><a href="join.html">Join</a></li>
+    </ul>
+
+</nav>
+
+<header class="hero">
+
+    <div class="hero-content">
+
+        <img src="https://i.ibb.co/XfnDMP9g/your-logo.png" class="hero-logo">
+
+        <h1>KINGDOMS OF WYRMWOOD</h1>
+
+        <p>
+            Forge Your Legacy.<br>
+            Conquer Ancient Dungeons.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="join.html" class="btn">Play Now</a>
+            <a href="dungeons.html" class="btn secondary-btn">Explore Dungeons</a>
+        </div>
+
+    </div>
+
+</header>
+
+<section class="section">
+
+    <h2>Welcome Adventurer</h2>
+
+    <p class="section-text">
+        Venture into the mystical lands of Wyrmwood where dangerous dungeons,
+        legendary treasures, powerful bosses and epic adventures await.
+    </p>
+
+</section>
+
+<section class="feature-grid">
+
+    <div class="feature-card">
+        <h3>⚔ Epic Bosses</h3>
+        <p>
+            Face terrifying enemies and earn powerful rewards.
+        </p>
+    </div>
+
+    <div class="feature-card">
+        <h3>🏰 Kingdom Lore</h3>
+        <p>
+            Discover the secrets hidden throughout Wyrmwood.
+        </p>
+    </div>
+
+    <div class="feature-card">
+        <h3>💎 Custom Progression</h3>
+        <p>
+            Level up and unlock stronger equipment.
+        </p>
+    </div>
+
+</section>
+
+<section class="section">
+
+    <h2>Featured Dungeons</h2>
+
+    <div class="feature-grid">
+
+        <div class="feature-card">
+            <h3>Goblin Caverns</h3>
+            <p>Recommended Level 1-10</p>
+        </div>
+
+        <div class="feature-card">
+            <h3>Forsaken Temple</h3>
+            <p>Recommended Level 20-30</p>
+        </div>
+
+        <div class="feature-card">
+            <h3>Dragon's Lair</h3>
+            <p>Recommended Level 50+</p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <img src="https://i.ibb.co/XfnDMP9g/your-logo.png" class="footer-logo">
+
+    <h3>Kingdoms of Wyrmwood</h3>
+
+    <p>Play • Explore • Conquer</p>
+
+    <p class="copyright">
+        © 2026 Kingdoms of Wyrmwood
+    </p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
